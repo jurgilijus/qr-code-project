@@ -1,4 +1,4 @@
-import qr from "../../task/images/image-qr-code.png";
+import qr from "./assets/image-qr-code.png";
 
 function App() {
   return (
